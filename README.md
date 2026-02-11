@@ -1,4 +1,8 @@
-Repository Overview:
-A collection of small Pyhton projects that are easy and quick to make but show a basic understanding of Python.
-All grouped together in one repository since they are not large or complicated enough to be truly useful on thier own.
-Each project will be given it's own branch and a read.me on each branch.
+Author: Armstrong, Brexton
+Overview: 
+A Pyhton file that takes two images and creates a looping gif out of them.
+
+Instrctions:
+1. Ensure you have both PIP and imageio installed correctly
+2. Add your two image files to the working directory
+3. Follow prompts given by program
